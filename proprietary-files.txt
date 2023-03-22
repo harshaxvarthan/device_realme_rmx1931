@@ -2834,7 +2834,7 @@ odm/etc/build.vodafone_noneea.prop
 odm/etc/flags.prop
 odm/etc/gps.conf
 odm/etc/izat.conf
-odm/etc/oplus.fstab
+
 odm/etc/samsung1024_sofef03f_m_eyeprotect_data.xml
 odm/etc/samsung1024_sofef03f_m_srgb_eyeprotect_data.xml
 odm/etc/sap.conf
@@ -3315,8 +3315,8 @@ vendor/etc/tunings.txt
 vendor/etc/wfdconfig.xml
 vendor/etc/xtra_root_cert.pem
 vendor/etc/xtwifi.conf
-vendor/euclid/my_manifest.img
-vendor/euclid/odm.img
+
+
 vendor/firmware/image/oppoeid.b00
 vendor/firmware/image/oppoeid.b01
 vendor/firmware/image/oppoeid.b02
