@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=qssi
-VENDOR=qualcomm
+DEVICE=RMX1931
+VENDOR=realme
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

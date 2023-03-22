@@ -63,4 +63,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/qualcomm/qssi/qssi-vendor.mk)
+$(call inherit-product, vendor/realme/RMX1931/RMX1931-vendor.mk)

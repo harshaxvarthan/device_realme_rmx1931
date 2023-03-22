@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_qssi.mk
+    $(LOCAL_DIR)/twrp_RMX1931.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_qssi-user \
-    lineage_qssi-userdebug \
-    lineage_qssi-eng
+    twrp_RMX1931-user \
+    twrp_RMX1931-userdebug \
+    twrp_RMX1931-eng

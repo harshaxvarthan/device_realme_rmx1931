@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/qualcomm/qssi
+DEVICE_PATH := device/realme/RMX1931
 
 # Architecture
 TARGET_ARCH := arm64
@@ -94,4 +94,4 @@ BOARD_AVB_RECOVERY_ROLLBACK_INDEX_LOCATION := 1
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
-include vendor/qualcomm/qssi/BoardConfigVendor.mk
+include vendor/realme/RMX1931/BoardConfigVendor.mk
