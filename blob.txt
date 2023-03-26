@@ -1,5 +1,5 @@
 Cleaning output directory (./../../realme/sm8150-common/../../../vendor/realme/sm8150-common/proprietary)..
-Extracting 1134 files in ./../../realme/sm8150-common/proprietary-files.txt from /datadrive/test/dumpyara/working/out/:
+Extracting 1126 files in ./../../realme/sm8150-common/proprietary-files.txt from /datadrive/test/dumpyara/working/out/:
   - odm/bin/hw/android.hardware.drm@1.3-service.widevine
   - odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
     + Fixed up odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
@@ -1165,22 +1165,6 @@ Extracting 1134 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql
   - vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql
   - vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql
-  - product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml
-    !! product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml: file not found in source
-  - product/framework/com.android.hotwordenrollment.common.util.jar
-    !! product/framework/com.android.hotwordenrollment.common.util.jar: file not found in source
-  - product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk
-    !! product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk: file not found in source
-  - product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk
-    !! product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk: file not found in source
-  - odm/bin/oplus_sensor_fb
-    !! odm/bin/oplus_sensor_fb: file not found in source
-  - odm/firmware/tfa98xx.cnt
-    !! odm/firmware/tfa98xx.cnt: file not found in source
-  - system_ext/bin/tcmd
-    !! system_ext/bin/tcmd: file not found in source
-  - system_ext/etc/init/tcmd.rc
-    !! system_ext/etc/init/tcmd.rc: file not found in source
   - system_ext/etc/seccomp_policy/tcmd.policy
     !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
   - vendor/lib/libfastcvopt.so

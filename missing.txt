@@ -2,14 +2,6 @@
     !! vendor/lib64/com.qualcomm.qti.uceservice@2.3.so: file not found in source
     !! vendor/lib64/liboemnvbk_img_helper.so: file not found in source
     !! vendor/lib64/vendor.qti.data.mwqem@1.0.so: file not found in source
-    !! product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml: file not found in source
-    !! product/framework/com.android.hotwordenrollment.common.util.jar: file not found in source
-    !! product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk: file not found in source
-    !! product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk: file not found in source
-    !! odm/bin/oplus_sensor_fb: file not found in source
-    !! odm/firmware/tfa98xx.cnt: file not found in source
-    !! system_ext/bin/tcmd: file not found in source
-    !! system_ext/etc/init/tcmd.rc: file not found in source
     !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
     !! odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml: file not found in source
     !! odm/etc/wifi/bdwlan.b0a: file not found in source
