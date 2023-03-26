@@ -51,7 +51,7 @@ vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 
 # Audio firmware
-odm/firmware/tfa98xx.cnt
+#odm/firmware/tfa98xx.cnt
 
 # Audio libraries
 odm/lib/libaudioEngineerTest.so
