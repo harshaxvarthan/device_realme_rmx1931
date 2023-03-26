@@ -15,28 +15,6 @@ odm/etc/acdbdata/Speaker_cal.acdb
 vendor/lib/hw/audio.primary.msmnile.so
 vendor/lib64/hw/audio.primary.msmnile.so
 
-# Camera
-odm/etc/camera/vidhance_calibration
-odm/lib64/camera/com.qti.sensor.imx471.so
-odm/lib64/camera/com.qti.sensor.imx481.so
-odm/lib64/camera/com.qti.sensor.imx586.so
-odm/lib64/camera/com.qti.sensor.s5k3m5.so
-odm/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin
-odm/lib64/camera/com.qti.sensormodule.ofilm_imx586.bin
-odm/lib64/camera/com.qti.sensormodule.ofilm_s5k3m5.bin
-odm/lib64/camera/com.qti.sensormodule.semco_2nd_lens_imx586.bin
-odm/lib64/camera/com.qti.sensormodule.semco_imx481.bin
-odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin
-odm/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin
-odm/lib64/camera/com.qti.sensormodule.sunny_imx471.bin
-odm/lib64/camera/com.qti.tuned.ofilm_imx481.bin
-odm/lib64/camera/com.qti.tuned.ofilm_imx586.bin
-odm/lib64/camera/com.qti.tuned.ofilm_s5k3m5.bin
-odm/lib64/camera/com.qti.tuned.semco_imx481.bin
-odm/lib64/camera/com.qti.tuned.semco_imx586.bin
-odm/lib64/camera/com.qti.tuned.semco_s5k3m5.bin
-odm/lib64/camera/com.qti.tuned.sunny_imx471.bin
-
 # Fingerprint
 odm/vendor/firmware/gfp9508.b00
 odm/vendor/firmware/gfp9508.b01
