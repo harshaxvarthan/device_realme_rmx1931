@@ -475,10 +475,10 @@ vendor/lib64/vendor.display.postproc@1.0.so
 
 # DPM
 system_ext/bin/dpmd
-system_ext/bin/tcmd
+#system_ext/bin/tcmd
 system_ext/etc/dpm/dpm.conf
 system_ext/etc/init/dpmd.rc
-system_ext/etc/init/tcmd.rc
+#system_ext/etc/init/tcmd.rc
 system_ext/etc/permissions/com.qti.dpmframework.xml
 system_ext/etc/permissions/dpmapi.xml
 system_ext/etc/seccomp_policy/tcmd.policy
@@ -1038,7 +1038,7 @@ odm/bin/hw/vendor.oplus.hardware.oplusSensor@1.0-service
 odm/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc
 odm/etc/vintf/manifest/manifest_oplusSensor.xml
 #odm/lib64/liboplus_service.so
-odm/lib64/oplus.sensors.ssc.so
+vendor/lib64/sensors.ssc.so
 odm/lib64/vendor.oplus.hardware.oplusSensor@1.0.so
 vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service
 vendor/bin/sensors.qti
@@ -1167,7 +1167,7 @@ vendor/lib64/libtrustedapploader.so
 
 # WiFi
 odm/bin/init.oppo.wifi.sh
-odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
+vendor/etc/wifi/WCNSS_qcom_cfg.ini
 vendor/bin/cnss-daemon
 vendor/etc/wifi/p2p_supplicant_overlay.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
