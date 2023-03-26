@@ -1,4 +1,3 @@
-    !! product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml: file not found in source
     !! odm/bin/init.oplus.fingerprints.sh: file not found in source
     !! odm/bin/init.oplus.wifi.sh: file not found in source
     !! odm/bin/oplus_sensor_fb: file not found in source
@@ -143,9 +142,6 @@
     !! vendor/lib64/libvidhance.so: file not found in source
     !! vendor/lib64/vendor.oplus.hardware.cameraMDM@2.0.so: file not found in source
     !! vendor/lib64/vendor.qti.data.mwqem@1.0.so: file not found in source
-    !! product/framework/com.android.hotwordenrollment.common.util.jar: file not found in source
-    !! product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk: file not found in source
-    !! product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk: file not found in source
     !! odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml: file not found in source
     !! system_ext/app/ImsRcsService/ImsRcsService.apk: file not found in source
     !! system_ext/app/QtiTelephony/QtiTelephony.apk: file not found in source
