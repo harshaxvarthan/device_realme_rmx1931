@@ -1,4 +1,4 @@
-    !! odm/bin/init.oplus.fingerprints.sh: file not found in source
+
     !! odm/bin/init.oplus.wifi.sh: file not found in source
     !! odm/bin/oplus_sensor_fb: file not found in source
     !! odm/bin/vl53l1_daemon_main: file not found in source
