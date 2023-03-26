@@ -10,9 +10,8 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
   - odm/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc
   - odm/etc/izat.conf
-  - vendor/etc/libnfc-nci.conf
   - vendor/etc/libnfc-nxp.conf
-    !! vendor/etc/libnfc-nxp.conf: file not found in source
+  - vendor/etc/libnfc-nci.conf
   - odm/etc/sap.conf
   - odm/etc/tunings.txt
   - odm/firmware/fastchg/18115/oplus_vooc_fw.bin
