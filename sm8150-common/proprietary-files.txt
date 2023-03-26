@@ -363,26 +363,9 @@ vendor/etc/charger_fstab.qti
 # Charger firmware
 odm/firmware/fastchg/18115/oplus_vooc_fw.bin
 odm/firmware/fastchg/18501/oplus_vooc_fw.bin
-odm/firmware/fastchg/18815/oplus_vooc_fw.bin
-odm/firmware/fastchg/18817/oplus_vooc_fw.bin
-odm/firmware/fastchg/18821/oplus_vooc_fw.bin
-odm/firmware/fastchg/18823/oplus_vooc_fw.bin
-odm/firmware/fastchg/18851/oplus_vooc_fw.bin
-odm/firmware/fastchg/18853/oplus_vooc_fw.bin
-odm/firmware/fastchg/18855/oplus_vooc_fw.bin
-odm/firmware/fastchg/18857/oplus_vooc_fw.bin
-odm/firmware/fastchg/18865/oplus_vooc_fw.bin
 odm/firmware/fastchg/19081/oplus_vooc_fw.bin
 odm/firmware/fastchg/19696/oplus_vooc_fw.bin
 odm/firmware/fastchg/19781/oplus_vooc_fw.bin
-odm/firmware/fastchg/19801/oplus_vooc_fw.bin
-odm/firmware/fastchg/19830/oplus_vooc_fw.bin
-odm/firmware/fastchg/19831/oplus_vooc_fw.bin
-odm/firmware/fastchg/19850/oplus_vooc_fw.bin
-odm/firmware/fastchg/19851/oplus_vooc_fw.bin
-odm/firmware/fastchg/19853/oplus_vooc_fw.bin
-odm/firmware/fastchg/19861/oplus_vooc_fw.bin
-odm/firmware/fastchg/19863/oplus_vooc_fw.bin
 
 # CNE
 vendor/app/CneApp/CneApp.apk
@@ -1132,18 +1115,6 @@ vendor/lib64/libtime_genoff.so
 odm/firmware/tp/18115/FW_S3706_SAMSUNG.img
 odm/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img
 odm/firmware/tp/18115/LIMIT_S3706_SAMSUNG.img
-odm/firmware/tp/18821/FW_S6SY761_SAMSUNG.bin
-odm/firmware/tp/18821/FW_S6SY761_SAMSUNG_FAE.bin
-odm/firmware/tp/18821/LIMIT_S6SY761_SAMSUNG.img
-odm/firmware/tp/18857/FW_S3706_SAMSUNG.img
-odm/firmware/tp/18857/FW_S3706_SAMSUNG_FAE.img
-odm/firmware/tp/18857/LIMIT_S3706_SAMSUNG.img
-odm/firmware/tp/18865/FW_S3706_SAMSUNG.img
-odm/firmware/tp/18865/FW_S3706_SAMSUNG_FAE.img
-odm/firmware/tp/18865/FW_S3706_SAMSUNG_NEW.img
-odm/firmware/tp/18865/FW_S3706_SAMSUNG_NEW_FAE.img
-odm/firmware/tp/18865/LIMIT_S3706_SAMSUNG.img
-odm/firmware/tp/18865/LIMIT_S3706_SAMSUNG_NEW.img
 odm/firmware/tp/19081/FW_S3706_SAMSUNG.img
 odm/firmware/tp/19081/FW_S3706_SAMSUNG_FAE.img
 odm/firmware/tp/19081/FW_S3706_SAMSUNG_OLD.img
@@ -1161,16 +1132,6 @@ odm/firmware/tp/19696/FW_NT36672C_NF_JDI_FAE.img
 odm/firmware/tp/19696/FW_NT36672C_NF_JDI_TEST.bin
 odm/firmware/tp/19696/LIMIT_NT36672C_NF_BOE.img
 odm/firmware/tp/19696/LIMIT_NT36672C_NF_JDI.img
-odm/firmware/tp/19801/FW_S6SY761_SAMSUNG.bin
-odm/firmware/tp/19801/FW_S6SY761_SAMSUNG_FAE.bin
-odm/firmware/tp/19801/FW_S6SY761_SAMSUNG_NEW.bin
-odm/firmware/tp/19801/FW_S6SY761_SAMSUNG_NEW_FAE.bin
-odm/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG.img
-odm/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG_NEW.img
-odm/firmware/tp/19861/LIMIT_SY761_OFILM.img
-odm/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img
-odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img
-odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img
 
 # Trusted Execution Environment connector
 vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service
