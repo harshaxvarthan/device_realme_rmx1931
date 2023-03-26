@@ -54,9 +54,9 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     init.wlan.qcom.rc \
     init.wlan.target.rc \
-    ueventd.qcom.rc \
-    init.recovery.qcom.rc \
-    init.aging.rc \
+    #ueventd.qcom.rc \
+    #init.recovery.qcom.rc \
+    #init.aging.rc \
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
