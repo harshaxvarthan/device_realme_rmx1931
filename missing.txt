@@ -1,45 +1,17 @@
-    !! odm/firmware/tfa98xx.cnt: file not found in source
-    !! odm/lib/rfsa/adsp/libktvpitchshift.so: file not found in source
-    !! odm/lib64/hw/fingerprint.18821_goodix9508_G2_4.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.18857_goodix9508_G2_4.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.18865_goodix9558_G3.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.19805_goodix9638_G6_3.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.19805_goodix9678_G6_7.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.19811_goodix9638_G6.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.19861_goodix9608_G5.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.20801_goodix9558_G3.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.20828_goodix9678.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.goodix9608_G5.default.so: file not found in source
-    !! odm/lib64/hw/fingerprint.goodix9638_G6.default.so: file not found in source
-    !! odm/lib64/libgf_hal_19805_G6_3_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_19805_G6_7_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_19811_G6_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_19861_G5_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_20828_G6_7_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_G5_oplus.so: file not found in source
-    !! odm/lib64/libgf_hal_G6_oplus.so: file not found in source
-    !! odm/lib64/libgf_ud_hal_18821_G2_4_oplus.so: file not found in source
-    !! odm/lib64/libgf_ud_hal_18857_G2_4_oplus.so: file not found in source
-    !! odm/lib64/libgf_ud_hal_18865_G3_oplus.so: file not found in source
-    !! odm/lib64/libgf_ud_hal_20801_G3_oplus.so: file not found in source
-    !! odm/lib64/oplus.sensors.ssc.so: file not found in source
-    !! odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini: file not found in source
-    !! system_ext/bin/tcmd: file not found in source
-    !! system_ext/etc/init/tcmd.rc: file not found in source
-    !! system_ext/etc/permissions/vendor.qti.ims.rcsservice.xml: file not found in source
-    !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
-    !! system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml: file not found in source
     !! system_ext/lib64/vendor.qti.hardware.dpmservice@1.0.so: file not found in source
-    !! vendor/lib/rfsa/adsp/libBeautyShot_skel.so: file not found in source
-    !! vendor/lib/rfsa/adsp/libSuperSensor_skel.so: file not found in source
-    !! vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so: file not found in source
     !! vendor/lib64/com.qualcomm.qti.uceservice@2.3.so: file not found in source
     !! vendor/lib64/liboemnvbk_img_helper.so: file not found in source
     !! vendor/lib64/vendor.qti.data.mwqem@1.0.so: file not found in source
+    !! product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml: file not found in source
+    !! product/framework/com.android.hotwordenrollment.common.util.jar: file not found in source
+    !! product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk: file not found in source
+    !! product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk: file not found in source
+    !! odm/bin/oplus_sensor_fb: file not found in source
+    !! odm/firmware/tfa98xx.cnt: file not found in source
+    !! system_ext/bin/tcmd: file not found in source
+    !! system_ext/etc/init/tcmd.rc: file not found in source
+    !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
     !! odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml: file not found in source
-    !! system_ext/app/ImsRcsService/ImsRcsService.apk: file not found in source
-    !! system_ext/app/QtiTelephony/QtiTelephony.apk: file not found in source
-    !! system_ext/framework/vendor.qti.ims.factory-V2.0-java.jar: file not found in source
     !! odm/etc/wifi/bdwlan.b0a: file not found in source
     !! odm/etc/wifi/bdwlan.b0i: file not found in source
     !! odm/etc/wifi/bdwlan.b1a: file not found in source
