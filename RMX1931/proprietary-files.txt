@@ -46,14 +46,14 @@ vendor/etc/sensors/config/msmnile_lsm6ds3c.json
 vendor/etc/sensors/config/msmnile_lsm6dsm.json
 vendor/etc/sensors/config/msmnile_mmc5603nj.json
 vendor/etc/sensors/config/msmnile_power_0.json
-vendor/etc/sensors/config/msmnile_stk2232_0.json
+vendor/etc/sensors/config/msmnile_stk2232_0.json|8c67d29aa1778e7100e8ac666dbf31f899c7e720
 vendor/etc/sensors/config/msmnile_stk2x2x.json
 vendor/etc/sensors/config/msmnile_stk2x3x.json
 vendor/etc/sensors/config/msmnile_stk3331.json
-vendor/etc/sensors/config/msmnile_sx9324_op.json
+vendor/etc/sensors/config/msmnile_sx9324_op.json|687c6298589bcaa48e030ada57156a423180139e
 vendor/etc/sensors/config/msmnile_sx932x.json
-vendor/etc/sensors/config/msmnile_sx932x_op.json
-vendor/etc/sensors/config/msmnile_tcs3701.json
+vendor/etc/sensors/config/msmnile_sx932x_op.json|f5548fff1a247b5eec7fd43eacabbf50f9152ed8
+vendor/etc/sensors/config/msmnile_tcs3701.json|7e7ab01323241151d6176b55c1f2be19fd20f0df
 vendor/etc/sensors/config/sns_amd.json
 vendor/etc/sensors/config/sns_amd_sw_disabled.json
 vendor/etc/sensors/config/sns_amd_sw_enabled.json
@@ -331,13 +331,13 @@ vendor/firmware/aw8697_weather_thunderstorm_RTP_coloros7_144.bin
 vendor/firmware/aw8697_weather_wind_RTP_coloros7_142.bin
 
 # WiFi
-odm/etc/wifi/bdwlan.b0a
-odm/etc/wifi/bdwlan.b0i
-odm/etc/wifi/bdwlan.b1a
-odm/etc/wifi/bdwlan0.b0a
-odm/etc/wifi/bdwlan0.b0i
-odm/etc/wifi/bdwlan0.b1a
-odm/etc/wifi/bdwlan1.b0a
-odm/etc/wifi/bdwlan1.b0i
-odm/etc/wifi/bdwlan1.b1a
-odm/etc/wifi/init.project.wifi.sh
+odm/etc/wifi/bdwlan.b0a|6ea136f53df7368c0282550c7cf2a06a84fc4616
+odm/etc/wifi/bdwlan.b0i|9bd05a0c5f44450b39fd5e0e8eeaf6051d810536
+odm/etc/wifi/bdwlan.b1a|a313d9a0e69e11533ae6a8673f057d1d52955793
+odm/etc/wifi/bdwlan0.b0a|884a544c3957e56de264533c6f5df75572ab5672
+odm/etc/wifi/bdwlan0.b0i|ecd6e09f481d030a8b31dbe9a388c0458fb5c5a2
+odm/etc/wifi/bdwlan0.b1a|994e822f70376a4fefb97d6626e5e79e4a5283a4
+odm/etc/wifi/bdwlan1.b0a|e38cd8481f25cdad3c3454253efbd9d887b0e077
+odm/etc/wifi/bdwlan1.b0i|5f11b78bfbcc040f325a985513a2c0ad11d91441
+odm/etc/wifi/bdwlan1.b1a|139caed0b909cada35704c7ca168e25dce340a05
+odm/etc/wifi/init.project.wifi.sh|fb17217611b3aec907fceca8630ec7e0b1e431e5
