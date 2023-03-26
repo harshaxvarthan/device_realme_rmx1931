@@ -16,33 +16,15 @@ vendor/lib/hw/audio.primary.msmnile.so
 vendor/lib64/hw/audio.primary.msmnile.so
 
 # Fingerprint
-odm/vendor/firmware/gfp9508.b00
-odm/vendor/firmware/gfp9508.b01
-odm/vendor/firmware/gfp9508.b02
-odm/vendor/firmware/gfp9508.b03
-odm/vendor/firmware/gfp9508.b04
-odm/vendor/firmware/gfp9508.b05
-odm/vendor/firmware/gfp9508.b06
-odm/vendor/firmware/gfp9508.b07
-odm/vendor/firmware/gfp9508.mdt
-odm/vendor/firmware/gfp9558.b00
-odm/vendor/firmware/gfp9558.b01
-odm/vendor/firmware/gfp9558.b02
-odm/vendor/firmware/gfp9558.b03
-odm/vendor/firmware/gfp9558.b04
-odm/vendor/firmware/gfp9558.b05
-odm/vendor/firmware/gfp9558.b06
-odm/vendor/firmware/gfp9558.b07
-odm/vendor/firmware/gfp9558.mdt
-odm/vendor/firmware/gfp9608.b00
-odm/vendor/firmware/gfp9608.b01
-odm/vendor/firmware/gfp9608.b02
-odm/vendor/firmware/gfp9608.b03
-odm/vendor/firmware/gfp9608.b04
-odm/vendor/firmware/gfp9608.b05
-odm/vendor/firmware/gfp9608.b06
-odm/vendor/firmware/gfp9608.b07
-odm/vendor/firmware/gfp9608.mdt
+odm/vendor/firmware/goodixfp.b00
+odm/vendor/firmware/goodixfp.b01
+odm/vendor/firmware/goodixfp.b02
+odm/vendor/firmware/goodixfp.b03
+odm/vendor/firmware/goodixfp.b04
+odm/vendor/firmware/goodixfp.b05
+odm/vendor/firmware/goodixfp.b06
+odm/vendor/firmware/goodixfp.b07
+odm/vendor/firmware/goodixfp.mdt
 
 # Sensors
 odm/etc/sensor/sensor_config.json
