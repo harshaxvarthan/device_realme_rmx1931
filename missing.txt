@@ -1,4 +1,3 @@
-    !! vendor/etc/libnfc-nxp.conf: file not found in source
     !! odm/firmware/tfa98xx.cnt: file not found in source
     !! odm/lib/rfsa/adsp/libktvpitchshift.so: file not found in source
     !! odm/lib64/hw/fingerprint.18821_goodix9508_G2_4.default.so: file not found in source
