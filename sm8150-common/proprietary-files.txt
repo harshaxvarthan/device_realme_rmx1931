@@ -1,6 +1,24 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
 ## from OnePlus 7 Pro (GM1911_11_H.38).
 
+# Kang
+vendor/etc/sensors/config/msmnile_stk2232_0.json
+vendor/etc/sensors/config/msmnile_sx9324_op.json
+vendor/etc/sensors/config/msmnile_sx932x_op.json
+vendor/etc/sensors/config/msmnile_tcs3701.json
+
+# Blabs
+odm/etc/wifi/bdwlan.b0a
+odm/etc/wifi/bdwlan.b0i
+odm/etc/wifi/bdwlan.b1a
+odm/etc/wifi/bdwlan0.b0a
+odm/etc/wifi/bdwlan0.b0i
+odm/etc/wifi/bdwlan0.b1a
+odm/etc/wifi/bdwlan1.b0a
+odm/etc/wifi/bdwlan1.b0i
+odm/etc/wifi/bdwlan1.b1a
+odm/etc/wifi/init.project.wifi.sh
+
 # ACDBs
 vendor/etc/acdbdata/adsp_avs_config.acdb
 
@@ -496,7 +514,7 @@ system_ext/etc/init/dpmd.rc
 #system_ext/etc/init/tcmd.rc
 system_ext/etc/permissions/com.qti.dpmframework.xml
 system_ext/etc/permissions/dpmapi.xml
--system_ext/etc/seccomp_policy/tcmd.policy
+#system_ext/etc/seccomp_policy/tcmd.policy
 system_ext/framework/com.qti.dpmframework.jar
 system_ext/framework/dpmapi.jar
 system_ext/lib/vendor.qti.diaghal@1.0.so
@@ -711,7 +729,7 @@ vendor/lib64/com.qualcomm.qti.imscmservice@2.2.so
 vendor/lib64/com.qualcomm.qti.uceservice@2.0.so
 vendor/lib64/com.qualcomm.qti.uceservice@2.1.so
 vendor/lib64/com.qualcomm.qti.uceservice@2.2.so
-vendor/lib64/com.qualcomm.qti.uceservice@2.3.so
+#vendor/lib64/com.qualcomm.qti.uceservice@2.3.so
 vendor/lib64/lib-imscmservice.so
 vendor/lib64/lib-imsdpl.so
 vendor/lib64/lib-imsqimf.so
@@ -726,7 +744,7 @@ vendor/lib64/lib-rtpsl.so
 vendor/lib64/lib-siputility.so
 vendor/lib64/lib-uceservice.so
 vendor/lib64/librcc.so
-vendor/lib64/vendor.qti.data.mwqem@1.0.so
+#vendor/lib64/vendor.qti.data.mwqem@1.0.so
 vendor/lib64/vendor.qti.hardware.radio.ims@1.0.so
 vendor/lib64/vendor.qti.hardware.radio.ims@1.1.so
 vendor/lib64/vendor.qti.hardware.radio.ims@1.2.so
@@ -1000,7 +1018,7 @@ vendor/lib64/libnetmgr_common.so
 vendor/lib64/libnetmgr_nr_fusion.so
 vendor/lib64/libnetmgr_rmnet_ext.so
 vendor/lib64/libnlnetmgr.so
-vendor/lib64/liboemnvbk_img_helper.so
+#vendor/lib64/liboemnvbk_img_helper.so
 vendor/lib64/libpdmapper.so
 vendor/lib64/libpdnotifier.so
 vendor/lib64/libqcbor.so
