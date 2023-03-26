@@ -1,5 +1,5 @@
 Cleaning output directory (./../../realme/sm8150-common/../../../vendor/realme/sm8150-common/proprietary)..
-Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from ../../../../test/dumpyara/working/out/:
+Extracting 1134 files in ./../../realme/sm8150-common/proprietary-files.txt from /datadrive/test/dumpyara/working/out/:
   - odm/bin/hw/android.hardware.drm@1.3-service.widevine
   - odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
     + Fixed up odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
@@ -19,8 +19,6 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - odm/firmware/fastchg/19081/oplus_vooc_fw.bin
   - odm/firmware/fastchg/19696/oplus_vooc_fw.bin
   - odm/firmware/fastchg/19781/oplus_vooc_fw.bin
-  - odm/firmware/tfa98xx.cnt
-    !! odm/firmware/tfa98xx.cnt: file not found in source
   - odm/firmware/tp/18115/FW_S3706_SAMSUNG.img
   - odm/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img
   - odm/firmware/tp/18115/LIMIT_S3706_SAMSUNG.img
@@ -44,122 +42,115 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - odm/lib/libaudioEngineerTest.so
   - vendor/lib64/libpn553_fw.so
   - odm/lib/rfsa/adsp/commit.txt
+  - odm/lib/rfsa/adsp/libVDHexagonBlurless_v2_skel.so
+  - odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so
+  - odm/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_5221_skel.so
+  - odm/lib/rfsa/adsp/libarcsoft_psn_hvx_5221_skel.so
   - odm/lib/rfsa/adsp/libc++.so.1
   - odm/lib/rfsa/adsp/libc++abi.so.1
   - odm/lib/rfsa/adsp/libktvdrc.so
   - odm/lib/rfsa/adsp/libktveffect.so
   - odm/lib/rfsa/adsp/libktveq.so
   - odm/lib/rfsa/adsp/libktvns.so
-  - odm/lib/rfsa/adsp/libktvpitchshift.so
-    !! odm/lib/rfsa/adsp/libktvpitchshift.so: file not found in source
   - odm/lib/rfsa/adsp/libktvreverb.so
+  - odm/lib/rfsa/adsp/libktvsoundtouch.so
   - odm/lib/rfsa/adsp/libktvvolume.so
+  - odm/lib/rfsa/adsp/libsnpe_dsp_domains_skel.so
+  - odm/lib/rfsa/adsp/libsnpe_dsp_skel.so
+  - odm/lib/rfsa/adsp/libsnpe_dsp_v65_domains_v2_skel.so
+  - odm/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so
   - odm/lib/vendor.oplus.hardware.orms@1.0.so
-  - odm/lib64/hw/fingerprint.18821_goodix9508_G2_4.default.so
-    !! odm/lib64/hw/fingerprint.18821_goodix9508_G2_4.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.18857_goodix9508_G2_4.default.so
-    !! odm/lib64/hw/fingerprint.18857_goodix9508_G2_4.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.18865_goodix9558_G3.default.so
-    !! odm/lib64/hw/fingerprint.18865_goodix9558_G3.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.19805_goodix9638_G6_3.default.so
-    !! odm/lib64/hw/fingerprint.19805_goodix9638_G6_3.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.19805_goodix9678_G6_7.default.so
-    !! odm/lib64/hw/fingerprint.19805_goodix9678_G6_7.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.19811_goodix9638_G6.default.so
-    !! odm/lib64/hw/fingerprint.19811_goodix9638_G6.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.19861_goodix9608_G5.default.so
-    !! odm/lib64/hw/fingerprint.19861_goodix9608_G5.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.20801_goodix9558_G3.default.so
-    !! odm/lib64/hw/fingerprint.20801_goodix9558_G3.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.20828_goodix9678.default.so
-    !! odm/lib64/hw/fingerprint.20828_goodix9678.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.goodix9608_G5.default.so
-    !! odm/lib64/hw/fingerprint.goodix9608_G5.default.so: file not found in source
-  - odm/lib64/hw/fingerprint.goodix9638_G6.default.so
-    !! odm/lib64/hw/fingerprint.goodix9638_G6.default.so: file not found in source
-  - odm/lib64/libgf_hal_19805_G6_3_oplus.so
-    !! odm/lib64/libgf_hal_19805_G6_3_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_19805_G6_7_oplus.so
-    !! odm/lib64/libgf_hal_19805_G6_7_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_19811_G6_oplus.so
-    !! odm/lib64/libgf_hal_19811_G6_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_19861_G5_oplus.so
-    !! odm/lib64/libgf_hal_19861_G5_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_20828_G6_7_oplus.so
-    !! odm/lib64/libgf_hal_20828_G6_7_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_G5_oplus.so
-    !! odm/lib64/libgf_hal_G5_oplus.so: file not found in source
-  - odm/lib64/libgf_hal_G6_oplus.so
-    !! odm/lib64/libgf_hal_G6_oplus.so: file not found in source
-  - odm/lib64/libgf_ud_hal_18821_G2_4_oplus.so
-    !! odm/lib64/libgf_ud_hal_18821_G2_4_oplus.so: file not found in source
-  - odm/lib64/libgf_ud_hal_18857_G2_4_oplus.so
-    !! odm/lib64/libgf_ud_hal_18857_G2_4_oplus.so: file not found in source
-  - odm/lib64/libgf_ud_hal_18865_G3_oplus.so
-    !! odm/lib64/libgf_ud_hal_18865_G3_oplus.so: file not found in source
-  - odm/lib64/libgf_ud_hal_20801_G3_oplus.so
-    !! odm/lib64/libgf_ud_hal_20801_G3_oplus.so: file not found in source
+  - odm/lib64/hw/fingerprint.goodix_G2.default.so
+  - odm/lib64/hw/fingerprint.goodix_G3.default.so
+  - odm/lib64/hw/fingerprint.goodix_G5.default.so
+  - odm/lib64/hw/fingerprint.goodix_G6.default.so
+  - odm/lib64/hw/fingerprint.silead.default.so
+  - odm/lib64/hw/fingerprint.silead_16bit.default.so
+  - odm/lib64/libgf_hal_G2.so
+  - odm/lib64/libgf_hal_G3.so
+  - odm/lib64/libgf_hal_G5.so
+  - odm/lib64/libgf_hal_G6.so
   - odm/lib64/liboemcrypto.so
   - odm/lib64/libwvhidl.so
   - odm/lib64/mediadrm/libwvdrmengine.so
-  - odm/lib64/oplus.sensors.ssc.so
-    !! odm/lib64/oplus.sensors.ssc.so: file not found in source
   - odm/lib64/vendor.oplus.hardware.appradio@1.0.so
   - odm/lib64/vendor.oplus.hardware.commondcs@1.0.so
   - odm/lib64/vendor.oplus.hardware.ims@1.0.so
   - odm/lib64/vendor.oplus.hardware.oplusSensor@1.0.so
   - odm/lib64/vendor.oplus.hardware.orms@1.0.so
   - odm/lib64/vendor.oplus.hardware.radio@1.0.so
-  - odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
-    !! odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini: file not found in source
   - system/etc/permissions/privapp-permissions-qti.xml
   - system/etc/sysconfig/qti_whitelist.xml
   - system_ext/bin/dpmd
-  - system_ext/bin/tcmd
-    !! system_ext/bin/tcmd: file not found in source
   - system_ext/bin/wfdservice
+    + keeping pinned file with hash 91f6e2d58de9354a694d3b3da6e6d224dd7e47c1
   - system_ext/etc/dpm/dpm.conf
   - system_ext/etc/init/dpmd.rc
-  - system_ext/etc/init/tcmd.rc
-    !! system_ext/etc/init/tcmd.rc: file not found in source
   - system_ext/etc/init/wfdservice.rc
+    + keeping pinned file with hash aab7aecb01c359fd521c99957c4d5bfd16a8dfae
   - system_ext/etc/permissions/com.qti.dpmframework.xml
   - system_ext/etc/permissions/dpmapi.xml
   - system_ext/etc/permissions/qcrilhook.xml
   - system_ext/etc/permissions/qti_libpermissions.xml
   - system_ext/etc/permissions/qti_permissions.xml
   - system_ext/etc/permissions/telephony_system-ext_privapp-permissions-qti.xml
+    + keeping pinned file with hash a7e114ea1e6909685ce49717a2b5b66d8275d419
   - system_ext/etc/permissions/vendor.qti.ims.rcsservice.xml
-    !! system_ext/etc/permissions/vendor.qti.ims.rcsservice.xml: file not found in source
-  - system_ext/etc/seccomp_policy/tcmd.policy
-    !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
+    + keeping pinned file with hash 54487895eb4c26e6ec642538dba910de9b092c81
   - system_ext/etc/seccomp_policy/wfdservice.policy
+    + keeping pinned file with hash ff82c22afdfc6a1f6f19db0d446f97e184d40043
   - system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml
-    !! system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml: file not found in source
+    + keeping pinned file with hash 83fb6029772c3a425dbd5cd45a61ca9d427e7604
   - system_ext/etc/sysconfig/qti_whitelist_system_ext.xml
     + keeping pinned file with hash e34b3affaef4e4ee135cbeec8d7c3e8c6cfd65ce
   - system_ext/etc/wfdconfigsink.xml
+    + keeping pinned file with hash eeaf6d97db961a2af25614390bf7c183b736e9db
   - system_ext/lib/com.qualcomm.qti.wifidisplayhal@1.0.so
+    + keeping pinned file with hash d1b42bfb512a6573155308ce0eab892d1ceb2ccc
   - system_ext/lib/libmmosal.so
   - system_ext/lib/libmmparser_lite.so
   - system_ext/lib/libmmrtpdecoder.so
+    + keeping pinned file with hash e50c35366bd428ac29e8a828cfd6b22aa08a0a55
   - system_ext/lib/libmmrtpencoder.so
+    + keeping pinned file with hash 585958298553e86699d86898a083c42f10d4b111
   - system_ext/lib/libwfdavenhancements.so
+    + keeping pinned file with hash 22f4f199c40dcef9cedc298b53ea181084f7a6b3
   - system_ext/lib/libwfdclient.so
+    + keeping pinned file with hash a79b97747407b71b78d65acdc763644f5c54d395
   - system_ext/lib/libwfdcommonutils.so
+    + keeping pinned file with hash ba287a240c20ffd1f1743b36469ffcd007ed6590
   - system_ext/lib/libwfdconfigutils.so
+    + keeping pinned file with hash cbbf5cb1f21ff06b73430ab982020d2a4dbb8faf
   - system_ext/lib/libwfddisplayconfig.so
+    + keeping pinned file with hash f820d710151f2128422cd759891ff466b101844c
   - system_ext/lib/libwfdmminterface.so
+    + keeping pinned file with hash afa080acc6a3e342ff644b021e8b76a42f5bbe2b
   - system_ext/lib/libwfdmmsink.so
+    + keeping pinned file with hash ccbe571cc628ddb12ea92051fecbefade94b7096
   - system_ext/lib/libwfdmmsrc_system.so
+    + keeping pinned file with hash bde4074b8390e46c9b00a4f83cbb1e7e85619912
   - system_ext/lib/libwfdrtsp.so
+    + keeping pinned file with hash e1917b00957115454110741819d347d0219e6690
   - system_ext/lib/libwfdservice.so
+    + keeping pinned file with hash 5251fe00a6b768ebd01d69f8230bfaa75f446ac0
   - system_ext/lib/libwfdsinksm.so
+    + keeping pinned file with hash dbe08998536cbd163906616230d52c256f61b75b
   - system_ext/lib/libwfduibcinterface.so
+    + keeping pinned file with hash dcd3d957b027930fdd1996c47db42bf5c02ba576
   - system_ext/lib/libwfduibcsink.so
+    + keeping pinned file with hash e0e290869138a80bb809e591cb3a33735466138b
   - system_ext/lib/libwfduibcsinkinterface.so
+    + keeping pinned file with hash f0c675929329c75939fa9438026b1554d9610e80
   - system_ext/lib/libwfduibcsrc.so
+    + keeping pinned file with hash 1c0f49a5a6313552535ec55b0a4245b3f9556573
   - system_ext/lib/libwfduibcsrcinterface.so
+    + keeping pinned file with hash 828a8ff03570ebbc3bb197c7d0939b555cd887bf
+  - system_ext/lib/rfsa/adsp/libdsp_streamer_qvrcam_receiver.so
+  - system_ext/lib/rfsa/adsp/libeye_tracking_dsp_sample_skel.so
+  - system_ext/lib/rfsa/adsp/libqvr_cam_dsp_driver_skel.so
+  - system_ext/lib/rfsa/adsp/libqvr_dsp_driver_skel.so
+  - system_ext/lib/rfsa/adsp/libtracker_6dof_skel_8150.so
+  - system_ext/lib/rfsa/adsp/libtracker_6dof_skel_8250.so
   - system_ext/lib/vendor.qti.diaghal@1.0.so
   - system_ext/lib/vendor.qti.hardware.camera.device@1.0.so
   - system_ext/lib/vendor.qti.hardware.camera.postproc@1.0.so
@@ -169,37 +160,61 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - system_ext/lib/vendor.qti.hardware.scve.panorama@1.0.so
   - system_ext/lib/vendor.qti.hardware.seccam@1.0.so
   - system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
+    + keeping pinned file with hash 48815a18144f60747555bb93650726206c54323f
   - system_ext/lib64/com.qualcomm.qti.dpm.api@1.0.so
   - system_ext/lib64/lib-imsvideocodec.so
+    + keeping pinned file with hash e1e994cb122ad48b77ae10295a29bcfbe84e4d22
   - system_ext/lib64/lib-imsvt.so
+    + keeping pinned file with hash 38b39cafe351be5abc7b6ae5055ea1f390032502
   - system_ext/lib64/lib-imsvtextutils.so
+    + keeping pinned file with hash 16bed08e80919635fcb7ace934bd5f16f059c182
   - system_ext/lib64/lib-imsvtutils.so
+    + keeping pinned file with hash 9e45b76b14600df92782e6c8213af0dcddbe80be
   - system_ext/lib64/libdiag_system.so
+    + keeping pinned file with hash 35bace09ba74af348b9530fb02cf7088c90a44fd
   - system_ext/lib64/libdpmctmgr.so
   - system_ext/lib64/libdpmfdmgr.so
   - system_ext/lib64/libdpmframework.so
   - system_ext/lib64/libdpmtcm.so
   - system_ext/lib64/libimscamera_jni.so
+    + keeping pinned file with hash ff3d65093f5bf19fba95798b0a121ee510b0f72e
   - system_ext/lib64/libimsmedia_jni.so
+    + keeping pinned file with hash 9f192af40439abb04d5d5f0f3de5b772c9381114
   - system_ext/lib64/libmmosal.so
   - system_ext/lib64/libmmparser_lite.so
+    + keeping pinned file with hash 6b88eaa64656a733597f452dbe5368e7b675fb03
   - system_ext/lib64/libmmrtpdecoder.so
+    + keeping pinned file with hash 5f468a1a97b28fa5212205e57b849605d5cb6b10
   - system_ext/lib64/libmmrtpencoder.so
+    + keeping pinned file with hash 130f86a4efac5853467f3b62f4fda09745a40864
   - system_ext/lib64/libwfdclient.so
+    + keeping pinned file with hash 9ca3c35940e2b12b366c9c6dadb83614a5f5e307
   - system_ext/lib64/libwfdcommonutils.so
+    + keeping pinned file with hash 30398e23368c5d6b6f757d8e1126a123694acf32
   - system_ext/lib64/libwfdconfigutils.so
+    + keeping pinned file with hash 01e2e09849d228d8b7fe4c20cf61f97593e99d5d
   - system_ext/lib64/libwfddisplayconfig.so
+    + keeping pinned file with hash 8d98d7ed260434d67167e4c0e427bf1e851e66f4
   - system_ext/lib64/libwfdmminterface.so
+    + keeping pinned file with hash 5a47d276642b360e9dd476dc904ea733e0073cf9
   - system_ext/lib64/libwfdmmsink.so
+    + keeping pinned file with hash 8ca91476101328f19c6247461509bc93cdca3d5a
   - system_ext/lib64/libwfdnative.so
-    + Fixed up system_ext/lib64/libwfdnative.so
+    + keeping pinned file with hash be83a8755a0229bc2edd601c4dbee55c84334314
   - system_ext/lib64/libwfdrtsp.so
+    + keeping pinned file with hash 3269babfb6a2caa2d5e673a3b2f97f8da6f59d01
   - system_ext/lib64/libwfdsinksm.so
+    + keeping pinned file with hash 4871b46be23148f28b23d14bfa3cf11f7331fee8
   - system_ext/lib64/libwfduibcinterface.so
+    + keeping pinned file with hash d0a66f7568b7db43deb9347705eb0817ec481221
   - system_ext/lib64/libwfduibcsink.so
+    + keeping pinned file with hash a6cc8e4cb5135a28e1e17e3abe2da2b67daf70a8
   - system_ext/lib64/libwfduibcsinkinterface.so
+    + keeping pinned file with hash 5f92274c7879a90cef56d48520b3ebf151ca1906
   - system_ext/lib64/libwfduibcsrc.so
+    + keeping pinned file with hash 754c72c5682073d6d88c075dd01a349a94d52943
   - system_ext/lib64/libwfduibcsrcinterface.so
+    + keeping pinned file with hash aed39b1fe4eddae856db5ba6045ac141fd3f7662
   - system_ext/lib64/vendor.qti.diaghal@1.0.so
   - system_ext/lib64/vendor.qti.hardware.camera.device@1.0.so
   - system_ext/lib64/vendor.qti.hardware.camera.postproc@1.0.so
@@ -211,6 +226,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - system_ext/lib64/vendor.qti.hardware.scve.panorama@1.0.so
   - system_ext/lib64/vendor.qti.hardware.seccam@1.0.so
   - system_ext/lib64/vendor.qti.imsrtpservice@3.0.so
+    + keeping pinned file with hash 0c11ff5a7a671073ee40e17d46aa8b7acbf1dc0a
   - vendor/bin/ATFWD-daemon
   - vendor/bin/adpl
   - vendor/bin/adsprpcd
@@ -411,6 +427,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/etc/system_properties.xml
   - vendor/etc/thermal-engine.conf
   - vendor/etc/wfdconfig.xml
+  - vendor/etc/wifi/WCNSS_qcom_cfg.ini
   - vendor/etc/wifi/p2p_supplicant_overlay.conf
   - vendor/etc/wifi/wpa_supplicant_overlay.conf
   - vendor/etc/xtra_root_cert.pem
@@ -653,16 +670,11 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib/qcom.camera.log.so
   - vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so
   - vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so
-  - vendor/lib/rfsa/adsp/libBeautyShot_skel.so
-    !! vendor/lib/rfsa/adsp/libBeautyShot_skel.so: file not found in source
-  - vendor/lib/rfsa/adsp/libSuperSensor_skel.so
-    !! vendor/lib/rfsa/adsp/libSuperSensor_skel.so: file not found in source
   - vendor/lib/rfsa/adsp/libVC1Dec.so
   - vendor/lib/rfsa/adsp/libVC1DecDsp_skel.so
+  - vendor/lib/rfsa/adsp/libVDHexagonSuperPhoto_skel.so
   - vendor/lib/rfsa/adsp/libapps_mem_heap.so
   - vendor/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so
-  - vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so
-    !! vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so: file not found in source
   - vendor/lib/rfsa/adsp/libcamera_nn_skel.so
   - vendor/lib/rfsa/adsp/libcvpdsp_skel.so
   - vendor/lib/rfsa/adsp/libdspCV_skel.so
@@ -675,6 +687,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib/rfsa/adsp/libproxy_skel.so
   - vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so
   - vendor/lib/rfsa/adsp/libscveT2T_skel.so
+  - vendor/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so
   - vendor/lib/rfsa/adsp/libsns_device_mode_skel.so
   - vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so
   - vendor/lib/soundfx/libasphere.so
@@ -900,6 +913,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib64/libdiag.so
   - vendor/lib64/libdisp-aba.so
   - vendor/lib64/libdisplayqos.so
+    + keeping pinned file with hash 3e95c6aedbfca5132ef75365e0a45a32c79b1fd6
   - vendor/lib64/libdpmqmihal.so
   - vendor/lib64/libdrmfs.so
   - vendor/lib64/libdrmtime.so
@@ -982,6 +996,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib64/libqmiservices.so
   - vendor/lib64/libqrtr.so
   - vendor/lib64/libqseed3.so
+    + keeping pinned file with hash a449d79b912415f542509874b43338b27795a1c3
   - vendor/lib64/libqsocket.so
   - vendor/lib64/libqti-perfd-client.so
   - vendor/lib64/libqti-perfd.so
@@ -1002,11 +1017,17 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib64/libscveObjectTracker.so
   - vendor/lib64/libscveObjectTracker_stub.so
   - vendor/lib64/libsdedrm.so
+    + keeping pinned file with hash 3879f37c5458834476d3446f1ebbf5df6599c699
   - vendor/lib64/libsdm-color.so
+    + keeping pinned file with hash ee21a5b2489131775cdbc0f616add3d05bf514fb
   - vendor/lib64/libsdm-colormgr-algo.so
+    + keeping pinned file with hash 6d17546d7822803700dc21968f75069d1b7392b1
   - vendor/lib64/libsdm-diag.so
+    + keeping pinned file with hash 3d5c311d7d5d842e5a75e9ae3f9f70ceb00cd1cf
   - vendor/lib64/libsdm-disp-vndapis.so
+    + keeping pinned file with hash 42f536763a2f91dcbae5b4b7214e652283c389d6
   - vendor/lib64/libsdmextension.so
+    + keeping pinned file with hash e25630e45bbde8fde0dbca53007c8cd40e65df50
   - vendor/lib64/libsdsprpc.so
   - vendor/lib64/libsecureui.so
   - vendor/lib64/libsensorcal.so
@@ -1028,6 +1049,7 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib64/libsystem_health_mon.so
   - vendor/lib64/libtime_genoff.so
   - vendor/lib64/libtinyxml2_1.so
+    + keeping pinned file with hash 621dbc8e3d0529b9ee35393698de82ea006ca7fa
   - vendor/lib64/libtriplecam_optical_zoom_vs.so
   - vendor/lib64/libtriplecam_video_optical_zoom.so
   - vendor/lib64/libtrustedapploader.so
@@ -1042,6 +1064,8 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/lib64/qcrild_librilutils.so
   - vendor/lib64/qtibus.so
   - vendor/lib64/qtimutex.so
+  - vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so
+  - vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so
   - vendor/lib64/sensors.ssc.so
   - vendor/lib64/unnhal-acc-adreno.so
   - vendor/lib64/unnhal-acc-common.so
@@ -1141,6 +1165,24 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql
   - vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql
   - vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql
+  - product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml
+    !! product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml: file not found in source
+  - product/framework/com.android.hotwordenrollment.common.util.jar
+    !! product/framework/com.android.hotwordenrollment.common.util.jar: file not found in source
+  - product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk
+    !! product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk: file not found in source
+  - product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk
+    !! product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk: file not found in source
+  - odm/bin/oplus_sensor_fb
+    !! odm/bin/oplus_sensor_fb: file not found in source
+  - odm/firmware/tfa98xx.cnt
+    !! odm/firmware/tfa98xx.cnt: file not found in source
+  - system_ext/bin/tcmd
+    !! system_ext/bin/tcmd: file not found in source
+  - system_ext/etc/init/tcmd.rc
+    !! system_ext/etc/init/tcmd.rc: file not found in source
+  - system_ext/etc/seccomp_policy/tcmd.policy
+    !! system_ext/etc/seccomp_policy/tcmd.policy: file not found in source
   - vendor/lib/libfastcvopt.so
   - vendor/lib/libthermalclient.so
   - vendor/lib64/libfastcvopt.so
@@ -1152,20 +1194,23 @@ Extracting 1127 files in ./../../realme/sm8150-common/proprietary-files.txt from
   - product/app/PowerOffAlarm/PowerOffAlarm.apk
 Checking if system is odexed and locating boot.oats...
   - system/framework/WfdCommon.jar
+    + keeping pinned file with hash de1adc7a4adbb117123aa5bb116c5df83c686433
   - system_ext/app/ImsRcsService/ImsRcsService.apk
-    !! system_ext/app/ImsRcsService/ImsRcsService.apk: file not found in source
+    + keeping pinned file with hash d03d3142f3518e755d02ace26b17170218ed8b4b
   - system_ext/app/QtiTelephony/QtiTelephony.apk
-    !! system_ext/app/QtiTelephony/QtiTelephony.apk: file not found in source
+    + keeping pinned file with hash f2ea59dfc69126c83905979e2d55d7c5f02e15e1
   - system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
   - system_ext/framework/com.qti.dpmframework.jar
   - system_ext/framework/dpmapi.jar
   - system_ext/framework/qcrilhook.jar
   - system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar
   - system_ext/framework/vendor.qti.ims.factory-V2.0-java.jar
-    !! system_ext/framework/vendor.qti.ims.factory-V2.0-java.jar: file not found in source
+    + keeping pinned file with hash a5791aa90552999909e52648d576055a8c533397
   - system_ext/priv-app/WfdService/WfdService.apk
+    + keeping pinned file with hash 34bee9e87eee7644044ab8132c9a2e0cd9abc614
   - system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk
   - system_ext/priv-app/ims/ims.apk
+    + keeping pinned file with hash f0d834acbc77e7830459e0246f5073e1b9ba8657
   - system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
   - vendor/app/CACertService/CACertService.apk
   - vendor/app/CneApp/CneApp.apk
@@ -1177,7 +1222,7 @@ Checking if system is odexed and locating boot.oats...
   - vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml
   - vendor/etc/vintf/manifest/vendor.qti.gnss@4.0-service.xml
 Cleaning output directory (./../../realme/sm8150-common/../../../vendor/realme/RMX1931/proprietary)..
-Extracting 328 files in ./../../realme/sm8150-common/../../realme/RMX1931/proprietary-files.txt from ../../../../test/dumpyara/working/out/:
+Extracting 328 files in ./../../realme/sm8150-common/../../realme/RMX1931/proprietary-files.txt from /datadrive/test/dumpyara/working/out/:
   - odm/etc/acdbdata/Bluetooth_cal.acdb
   - odm/etc/acdbdata/Codec_cal.acdb
   - odm/etc/acdbdata/General_cal.acdb
