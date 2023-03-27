@@ -438,3 +438,6 @@ PRODUCT_PACKAGES += \
 
 #PRODUCT_BOOT_JARS += \
 #    WfdCommon
+
+# Inherit from the proprietary files makefile.
+$(call inherit-product, vendor/realme/sm8150-common/sm8150-common-vendor.mk)
